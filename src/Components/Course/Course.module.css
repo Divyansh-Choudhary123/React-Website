@@ -1,0 +1,71 @@
+.main{
+    width: 100%;
+    height: 100%;
+    /* border: 1px solid black; */
+    /* margin-left: 180px; */
+    display: flex;
+    gap: 50px;
+    margin-top: 50px;
+
+}
+.hedding h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+.last{
+    width: 100%;
+    height: 300px;
+    background-color: blue;
+    margin-top: 100px;
+    display: flex;
+}
+.last1{
+    width: 30%;
+    height:300px ;
+    /* border: 1px solid black; */
+    
+}
+
+.last1 ul{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
+.last1 ul li{
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.courselast{
+    width: 100%;
+    height: 60px;
+    background-color: blueviolet;
+
+    
+}
+.courselast h1{
+    font-size: 20px;
+    padding-top: 20px;
+    color:white;
+}
+
+.main{
+    width: 100%;
+    height: 100%
+    
+}
+.cc{
+    width: 90%;
+    height: 100%;
+    /* border: 1px solid black; */
+    margin-left: 70px;
+    display: flex;
+}
+.cd{
+    width: 320px;
+    height: 330px;
+    /* border: 1px solid red; */
+    margin-left: 60px;
+}
